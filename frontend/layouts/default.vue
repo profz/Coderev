@@ -1,0 +1,11 @@
+<template>
+  <div>
+    <slot />
+  </div>
+</template>
+
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, sans-serif; background: #0d1117; color: #e6edf3; }
+a { color: inherit; text-decoration: none; }
+</style>
